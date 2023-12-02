@@ -4,16 +4,43 @@
 <br>
 <img  align="right" width="450"  alt="coding" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Image Description">
 
-## ⚡️ Skills
-- **Programming Languages:**: Java, SQL
-- **Frameworks**: Spring Boot
-- **Databases**: MySQL
-- **Version Control**: Git
-- **Other Tools**: Maven, IntelliJ IDEA
+Welcome to my coding journey! I'm a passionate software developer with a Master's degree in Computer Science and several years of experience in software development. I take pride in my work and strive for continuous improvement, always seeking environments that foster growth and learning to achieve both my professional and personal goals.
 
-  ## 💼 Experience
-- Geekster (January 2023 - Present)
-- Position: Trainee Software Developer
+## 💼 Experience
+
+### Systango
+**SDE-1 Android Developer** | *Sep 2021 – Present* | Indore, India
+
+- Developed native Android applications and frameworks using Android Studio, Java, Kotlin, and Git.
+- Integrated third-party libraries and APIs to enhance app functionality, staying current with industry trends.
+- Resolved critical bugs promptly to ensure a seamless user experience.
+
+## 🛠️ Projects Showcase
+
+### Textico
+Developed a feature-rich Android application enabling real-time chat, voice calls, and video calls. Integrated core communication functionalities using Android, Java, and Room Databases.
+
+### Short Term Weather Forecasting Using Machine Learning Technique
+Examined the applicability of machine learning approaches for weather analysis, building a predictive model based on clustering and time series techniques using Python, LSTM model, and Data Mining.
+
+### HireHub
+Built a placement management system application that streamlines the job posting and application process. Personalized dashboard for users to view resume statistics, application history, and job alerts using MongoDB, Express.js, Ejs, and Node.js.
+
+### NewsWire
+Developed and designed a dynamic news posting website, delivering up-to-date and engaging news content. Integrated multimedia elements like images, videos, and infographics to enhance visual appeal and engagement using MongoDB, Express.js, React.js, and Node.js.
+
+## 🤝 Collaboration and Leadership
+
+As a leader of small teams in various projects, my goal has always been to ensure that every team member feels included. I thrive in collaborative environments, valuing the intricate interplay of people and departments in the software development lifecycle.
+
+
+## ⚡️ Skills
+- **Enterprise Application Development:** Android, Javascript
+- **Programming Languages:**: C/C++, Java
+- **Frameworks**: nodejs,reactjs
+- **Databases**: MySQL,MongoDB
+- **Version Control**: Git
+- **Other Tools**: Android Studion, IntelliJ IDEA, Visual Studio Code
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MihirBhawsar&label=Profile%20views&color=0e75b6&style=flat" alt="irahulchaurasiya" /> </p>
 
